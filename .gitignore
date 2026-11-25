@@ -1,0 +1,10 @@
+# Local settings, quota data, and diagnostics
+/config.json
+/antigravity_quota.json
+/test-output.txt
+
+# Build outputs
+/dist/
+*.exe
+*.pdb
+*.zip
